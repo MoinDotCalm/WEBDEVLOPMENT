@@ -3,4 +3,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://moindotcalm.github.io/WEBDEVLOPMENT/module_5//index.html)
+# To see the output [CLICK HERE](https://moindotcalm.github.io/WEBDEVLOPMENT/module_5/)
